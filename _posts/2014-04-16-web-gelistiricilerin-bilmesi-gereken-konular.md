@@ -26,7 +26,7 @@ Bu yazı açık kaynaklı olarak `GitHub` hesabım üzerinde yayınlanmaktadır.
 
 Bu yazı, [https://github.com/Aristona/aristona.github.io](https://github.com/Aristona/aristona.github.io) üzerindeki `repository` (ambar) üzerinde tutulmaktadır. Format olarak `Markdown (Redcarpet)` kullanılmıştır, bu yüzden `pull request` attığınızda, yazılarınızın bu formata uygun olması gerekmektedir.
 
-### Anlaşma ###
+### Yazım Hataları ###
 
 1. Bu yazıda hatalar bulunabilir. Yazım hataları bulunabilir. Çalışmayan örnekler olabilir. Benim de doğru bildiğim yanlışlar olabilir. Bu durumda yapmanız gereken, "Bu yanlış! Ne kötü bir yazı bu!" demek yerine, eğer yapabiliyorsanız, gerekli düzeltmeleri yapıp `pull request` atmanızdır. Eğer yapamıyorsanız, araştırmam için gerekli kaynakları ve hatalı bölümü `issue` oluşturarak bana bildirebilirsiniz.
 
